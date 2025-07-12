@@ -18,31 +18,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
-I'm a Computer Science student with a passion for web and app development. Proficient in languages such as JavaScript, Python, and Java, and experienced with frameworks like React and Django. Skilled in building user-friendly, responsive websites using HTML, CSS, and React, as well as mobile applications using tools like React Native and Android Studio. Adept at problem-solving and constantly seeking to learn and innovate in the tech industry.
-
-
-
-
-
-
-
-## Skills and Experience <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="80" alt="Description">
-
-* 📱 APP DEVELOPMENT (iOS & Android)
-* 🌐 WEB DEVELOPMENT
-* 🖱️ JAVA PROGRAMMING
-* 👩‍💻 PYTHON PROGRAMMING
-
-- 🔭 I’m currently working on a React Native Mobile App
-
-
-## ⚙️ Tech Stack <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="32" height="30">
-
-![React](https://img.shields.io/badge/-React%20-05122A?style=flat-square&logo=React&color=353535) ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat-square&logo=React-Native&color=353535) ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat-square&logo=NodeJs&color=353535) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat-square&logo=Android-Studio&color=353535) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Java](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=353535) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=353535) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
-## My latest project <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="35" />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alteakapxhiu&repo=TaskPro)](https://github.com/alteakapxhiu/TaskPro)
 
 ## Languages and Tools:
 
